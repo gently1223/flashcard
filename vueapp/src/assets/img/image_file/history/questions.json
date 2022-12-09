@@ -1,0 +1,369 @@
+{
+    "uuid": "45555b4a-ee9c-4860-9159-c3b604cf9739",
+    "file_name": "history",
+    "image_folder": "./image_file/history/questions",
+    "page": [
+        {
+            "pageNumber": 0,
+            "width": 1094,
+            "height": 1520
+        },
+        {
+            "pageNumber": 1,
+            "width": 1050,
+            "height": 1519,
+            "area": [
+                {
+                    "uuid": "0ec7f69d-765d-498b-b649-399fee2d2083",
+                    "linked-uuid": "",
+                    "areaNumber": "4",
+                    "x": 70.0,
+                    "y": 756.25,
+                    "width": 576.25,
+                    "height": 191.25
+                },
+                {
+                    "uuid": "aa619cab-e8a9-45e0-be33-82531b6df299",
+                    "linked-uuid": "",
+                    "areaNumber": "5",
+                    "x": 68.75,
+                    "y": 938.75,
+                    "width": 597.5,
+                    "height": 357.5
+                },
+                {
+                    "uuid": "b7a0d073-dd18-49a4-99fc-cbf9aa36f0e5",
+                    "linked-uuid": "",
+                    "areaNumber": "6",
+                    "x": 72.5,
+                    "y": 1290.0,
+                    "width": 546.25,
+                    "height": 173.75
+                }
+            ]
+        },
+        {
+            "pageNumber": 2,
+            "width": 1049,
+            "height": 1519,
+            "area": [
+                {
+                    "uuid": "66e3cc29-684a-4bf1-8cf7-31b9adb1f243",
+                    "linked-uuid": "",
+                    "areaNumber": "1",
+                    "x": 96.25,
+                    "y": 158.75,
+                    "width": 508.75,
+                    "height": 75.0,
+                    "subAreas": [
+                        {
+                            "subUuid": "68633e01-f087-4bb8-94ad-ccd335b53325",
+                            "subNum": 0,
+                            "x": 608.75,
+                            "y": 161.25,
+                            "width": 362.5,
+                            "height": 322.5
+                        }
+                    ]
+                },
+                {
+                    "uuid": "90001ed5-c9a6-459e-bdad-7520874ff93e",
+                    "linked-uuid": "",
+                    "areaNumber": "2",
+                    "x": 101.25,
+                    "y": 267.5,
+                    "width": 506.25,
+                    "height": 38.75,
+                    "subAreas": [
+                        {
+                            "subUuid": "540eb9c9-4f3a-4190-ba3c-88183b372953",
+                            "subNum": 0,
+                            "x": 611.25,
+                            "y": 157.5,
+                            "width": 357.5,
+                            "height": 323.75
+                        }
+                    ]
+                },
+                {
+                    "uuid": "23fb9cfc-06b1-448c-ba8c-08b3a17d2a35",
+                    "linked-uuid": "",
+                    "areaNumber": "3",
+                    "x": 97.5,
+                    "y": 337.5,
+                    "width": 505.0,
+                    "height": 147.5,
+                    "subAreas": [
+                        {
+                            "subUuid": "3560b0b3-820c-4c83-948d-f5e86d12356b",
+                            "subNum": 0,
+                            "x": 96.25,
+                            "y": 270.0,
+                            "width": 396.25,
+                            "height": 35.0
+                        },
+                        {
+                            "subUuid": "0945214e-aefb-4b67-b78d-f298adc254ec",
+                            "subNum": 1,
+                            "x": 607.5,
+                            "y": 163.75,
+                            "width": 360.0,
+                            "height": 315.0
+                        }
+                    ]
+                },
+                {
+                    "uuid": "b16db197-c022-4fff-aed5-b8a107aef24f",
+                    "linked-uuid": "",
+                    "areaNumber": "4",
+                    "x": 100.0,
+                    "y": 481.25,
+                    "width": 880.0,
+                    "height": 78.75,
+                    "subAreas": [
+                        {
+                            "subUuid": "2650b869-d51b-475d-8a49-5007e40e1857",
+                            "subNum": 0,
+                            "x": 97.5,
+                            "y": 266.25,
+                            "width": 393.75,
+                            "height": 41.25
+                        },
+                        {
+                            "subUuid": "eaa80d73-43d5-4ce9-a1ee-5ccba8df2e69",
+                            "subNum": 1,
+                            "x": 605.0,
+                            "y": 167.5,
+                            "width": 372.5,
+                            "height": 311.25
+                        }
+                    ]
+                },
+                {
+                    "uuid": "ec38eb49-775a-4130-b1b5-a642cd96ab44",
+                    "linked-uuid": "",
+                    "areaNumber": "5",
+                    "x": 147.5,
+                    "y": 657.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "cee11e3d-a849-4f14-b9e3-2952b179513e",
+                    "linked-uuid": "",
+                    "areaNumber": "6",
+                    "x": 147.5,
+                    "y": 726.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "15b1f342-549e-4202-97ee-b92a4f618112",
+                    "linked-uuid": "",
+                    "areaNumber": "7",
+                    "x": 147.5,
+                    "y": 801.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "3218a142-c5e8-4044-87ca-6a365dfe4060",
+                    "linked-uuid": "",
+                    "areaNumber": "8",
+                    "x": 147.5,
+                    "y": 869.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "45f4a392-14ad-44dd-bb43-cdeb22b6db1a",
+                    "linked-uuid": "",
+                    "areaNumber": "9",
+                    "x": 147.5,
+                    "y": 938.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "96559546-d725-4e1e-935d-e7dbf15d4aed",
+                    "linked-uuid": "",
+                    "areaNumber": "10",
+                    "x": 147.5,
+                    "y": 1008.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "e59a1e70-43c4-4412-9111-51d0b5b1b86b",
+                    "linked-uuid": "",
+                    "areaNumber": "11",
+                    "x": 147.5,
+                    "y": 1080.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "3e99ca18-d26f-4856-be22-6add4dea0b00",
+                    "linked-uuid": "",
+                    "areaNumber": "12",
+                    "x": 147.5,
+                    "y": 1151.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "b501ec17-78b1-493f-9a70-fb8fdfe5b933",
+                    "linked-uuid": "",
+                    "areaNumber": "13",
+                    "x": 147.5,
+                    "y": 1226.5,
+                    "width": 547.5,
+                    "height": 75.0
+                },
+                {
+                    "uuid": "70ee3163-793d-46da-93fe-61c019cf2398",
+                    "linked-uuid": "",
+                    "areaNumber": "14",
+                    "x": 147.5,
+                    "y": 1299.5,
+                    "width": 547.5,
+                    "height": 75.0
+                }
+            ]
+        },
+        {
+            "pageNumber": 3,
+            "width": 1049,
+            "height": 1519,
+            "area": [
+                {
+                    "uuid": "62d4d4e5-07f8-4534-9bd8-d8c3dd2ab8b9",
+                    "linked-uuid": "",
+                    "areaNumber": "1",
+                    "x": 65.0,
+                    "y": 258.75,
+                    "width": 636.25,
+                    "height": 152.5
+                },
+                {
+                    "uuid": "ec8cc23a-ff55-4b93-8d01-ca9dc5a668de",
+                    "linked-uuid": "",
+                    "areaNumber": "2",
+                    "x": 61.25,
+                    "y": 412.5,
+                    "width": 635.0,
+                    "height": 176.25
+                },
+                {
+                    "uuid": "83b774db-1cea-4c41-9c5d-a215560134ae",
+                    "linked-uuid": "",
+                    "areaNumber": "3",
+                    "x": 61.25,
+                    "y": 583.75,
+                    "width": 638.75,
+                    "height": 107.5
+                },
+                {
+                    "uuid": "001dcd59-4f4b-4fc3-870c-6170bd619cfe",
+                    "linked-uuid": "",
+                    "areaNumber": "4",
+                    "x": 60.0,
+                    "y": 685.0,
+                    "width": 642.5,
+                    "height": 152.5
+                },
+                {
+                    "uuid": "81c800af-4204-46fd-8079-b155b56240c1",
+                    "linked-uuid": "",
+                    "areaNumber": "5",
+                    "x": 62.5,
+                    "y": 823.75,
+                    "width": 646.25,
+                    "height": 151.25
+                },
+                {
+                    "uuid": "10d0b286-418c-4d6b-b3bd-bb6805ce0034",
+                    "linked-uuid": "",
+                    "areaNumber": "6",
+                    "x": 65.0,
+                    "y": 966.25,
+                    "width": 638.75,
+                    "height": 223.75
+                },
+                {
+                    "uuid": "7e016b5e-d60d-4656-86ba-8ea19ada4904",
+                    "linked-uuid": "",
+                    "areaNumber": "7",
+                    "x": 68.75,
+                    "y": 1183.75,
+                    "width": 630.0,
+                    "height": 261.25
+                }
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "section": "第１部　歴史のとらえ方と調べ方",
+            "startPage": 0,
+            "endPage": 1,
+            "actualPageNum": 1,
+            "parts": [
+                {
+                    "section": "第１節　歴史の流れと時代区分",
+                    "startPage": 0,
+                    "endPage": 1,
+                    "actualPageNum": 1
+                },
+                {
+                    "section": "第２節　歴史の調べ方・まとめ方・発表のしかた",
+                    "startPage": 1,
+                    "endPage": 1,
+                    "actualPageNum": 1
+                }
+            ]
+        },
+        {
+            "section": "第２部　歴史の大きな流れと時代の移り代わり",
+            "startPage": 2,
+            "endPage": 3,
+            "actualPageNum": 2,
+            "parts": [
+                {
+                    "section": "第１章　古代　古代国家の成立と東アジア",
+                    "startPage": 2,
+                    "endPage": 2,
+                    "actualPageNum": 2,
+                    "parts": [
+                        {
+                            "section": "第１節　人類の登場から文明の発生へ",
+                            "startPage": 2,
+                            "endPage": 2,
+                            "actualPageNum": 2
+                        },
+                        {
+                            "section": "第２節　東アジアの中の日本",
+                            "startPage": 2,
+                            "endPage": 2,
+                            "actualPageNum": 2
+                        }
+                    ]
+                },
+                {
+                    "section": "第２章　中世　武家政権の成長と東アジア",
+                    "startPage": 3,
+                    "endPage": 3,
+                    "actualPageNum": 3,
+                    "parts": [
+                        {
+                            "section": "第１節　武士の世の始まり",
+                            "startPage": 3,
+                            "endPage": 3,
+                            "actualPageNum": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
